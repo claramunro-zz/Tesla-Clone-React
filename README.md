@@ -1,6 +1,6 @@
 # Tesla Clone :car:
 
-Prompt was to recreate the Tesla website. Continue practicing with components in react.
+Prompt was to recreate the Tesla website.
 
 ![tesla-mockup-after](/images/mockup-done.png)
 
